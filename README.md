@@ -9,5 +9,8 @@ In this vein (pun intended), the following dataset comprises 303 observations, 1
 
 ## Dimension Reduction : Principal Componenet Analysis (PCA)
 
+![Screenshot](combined_pca_plots.png)
+
+
 Citation - Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
 
